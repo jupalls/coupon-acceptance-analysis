@@ -16,7 +16,7 @@ Drivers were shown a driving scenario (destination, time of day, weather, passen
 - Overall, 57% of coupons were accepted and the rate depends heavily on coupon type.
 - Carry out (73%) and cheap restaurants (71%) are accepted far more often than bars (41%) or expensive restaurants (44%).
 - Regular bar-goers (more than 3 times a month) accept 77% of bar coupons, against 37% for everyone else. Being under 30, or having no children in the car, also points to acceptance.
-- Coffee house regulars (1+ visits a month) accept 66%, and 77% when the offer arrives at 10AM or 2PM. Drivers who don't visit coffee houses accept only 19%.
+- Coffee house regulars (1+ visits a month) accept 66%, and acceptance is highest when the offer arrives at 10AM (64%). Drivers who don't visit coffee houses accept only 19%.
 
 ## Recommendations
 1. **Target coupons to people based on their habits.** Send bar and coffee coupons to people who already visit those places; past behaviour is the strongest predictor of acceptance.
